@@ -1,1 +1,6 @@
-{"reels": [{"carpeta": "reels/2026-12-02-es-deducible", "tema": "¿Es deducible o no?", "publicacion": "2026-12-02", "estatus": "en_revision", "monday_item": null, "gmail_thread": null, "metricool_url": null, "validar": "Ejemplo $30,000 en doctor y dentista -> te podrían regresar $9,000: validar con Jorge o José Ángel"}]}
+{"reels": [
+ {"carpeta": "reels/2026-12-02-es-deducible", "tema": "¿Es deducible o no?", "publicacion": "2026-11-27T18:00", "estatus": "programado", "metricool_url": "https://app.metricool.com/planner/calendar?blogId=8346116&openWithPostUuid=-2861407308338478438", "validado": "FPM 26 nov 2026"},
+ {"carpeta": "reels/2026-11-29-efirma", "tema": "¿e.firma o FIEL?", "publicacion": "2026-11-29T18:00", "estatus": "programado", "metricool_url": "https://app.metricool.com/planner/calendar?blogId=8346116&openWithPostUuid=6195601562196593845", "validado": "FPM 26 nov 2026"}
+],
+"temas_validados": {"posada de la empresa": "deducible (FPM)", "regalos a clientes": "deducibles si se otorgan de manera general (FPM)"},
+"notas": ["No poner montos de topes de colegiaturas: que nos pregunten (FPM).", "Factura puede estar a nombre del cónyuge, ascendientes o descendientes (FPM).", "Decir 'regresar o disminuir tu impuesto' (FPM)."]}
