@@ -20,7 +20,7 @@ pip install --break-system-packages faster-whisper   # si falta
 
 ## Reglas de la plantilla (aprobada por Paco, 25 nov 2026)
 - Solo FRAPS animado. Nunca personas generadas por IA.
-- Voz "Paquito" (voice_id nlUr5kFJ0NmrKIVUvHZB), modelo eleven_v4 con etiquetas de tono: [curious]/[asking] en preguntas, [confident] en respuestas, [conspiratorial] para "el secreto", [playful]/[laughs softly] en remates, [warm]/[friendly] al cerrar. Preguntas separadas ("¿El dentista? ¿El doctor?") para que suban. Nunca [excited] en el cierre. En el guion escribir "Frapé"; en pantalla "FRAPÉ".
+- Voz "Paquito" (voice_id nlUr5kFJ0NmrKIVUvHZB), modelo eleven_v4 con etiquetas de tono: [curious]/[asking] en preguntas, [confident] en respuestas, [serious] para advertencias y "el secreto", [warm]/[friendly] al cerrar. NO usar [playful] ni [laughs softly] (le sale una risa que a Paco no le gusta) ni [conspiratorial] (susurra). 26 nov 2026. Preguntas separadas ("¿El dentista? ¿El doctor?") para que suban. Nunca [excited] en el cierre. En el guion escribir "Frapé"; en pantalla "FRAPÉ".
 - Gancho = una sola pregunta, sin coma en medio ("[curious] ¿El SAT te debe dinero y no lo sabes?").
 - Estructura: gancho → situación cotidiana → "lo que nadie te dice" → preguntas/respuestas rápidas → "el secreto" → ejemplo con cifras (escena calc) → cierre.
 - Cierre fijo: "¿Quieres saber [cuánto te toca / si te aplica]? Escríbenos." + frase final que regresa al gancho ("porque a lo mejor..."), para que el loop enganche.
