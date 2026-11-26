@@ -1,0 +1,11 @@
+proj/
+render.mp4
+final_4k.mp4
+final_sin_musica.mp4
+*.raw
+voz_n.wav
+voz_orig.wav
+build.log
+mix*.wav
+fix.*
+__pycache__/
