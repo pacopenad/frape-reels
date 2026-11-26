@@ -9,3 +9,6 @@ build.log
 mix*.wav
 fix.*
 __pycache__/
+build*.log
+.render.*/
+work-*/
