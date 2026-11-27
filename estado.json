@@ -1,6 +1,39 @@
-{"reels": [
- {"carpeta": "reels/2026-12-02-es-deducible", "tema": "¿Es deducible o no?", "publicacion": "2026-11-27T18:00", "estatus": "programado", "metricool_url": "https://app.metricool.com/planner/calendar?blogId=8346116&openWithPostUuid=-2861407308338478438", "validado": "FPM 26 nov 2026"},
- {"carpeta": "reels/2026-11-29-efirma", "tema": "¿e.firma o FIEL?", "publicacion": "2026-11-29T18:00", "estatus": "programado", "metricool_url": "https://app.metricool.com/planner/calendar?blogId=8346116&openWithPostUuid=6195601562196593845", "validado": "FPM 26 nov 2026"}
-],
-"temas_validados": {"posada de la empresa": "deducible (FPM)", "regalos a clientes": "deducibles si se otorgan de manera general (FPM)"},
-"notas": ["No poner montos de topes de colegiaturas: que nos pregunten (FPM).", "Factura puede estar a nombre del cónyuge, ascendientes o descendientes (FPM).", "Decir 'regresar o disminuir tu impuesto' (FPM)."]}
+{
+ "reels": [
+  {
+   "carpeta": "reels/2026-12-02-es-deducible",
+   "tema": "¿Es deducible o no?",
+   "publicacion": "2026-11-27T18:00",
+   "estatus": "programado",
+   "metricool_url": "https://app.metricool.com/planner/calendar?blogId=8346116&openWithPostUuid=-2861407308338478438",
+   "validado": "FPM 26 nov 2026"
+  },
+  {
+   "carpeta": "reels/2026-11-29-efirma",
+   "tema": "¿e.firma o FIEL?",
+   "publicacion": "2026-11-29T18:00",
+   "estatus": "programado",
+   "metricool_url": "https://app.metricool.com/planner/calendar?blogId=8346116&openWithPostUuid=6195601562196593845",
+   "validado": "FPM 26 nov 2026"
+  },
+  {
+   "carpeta": "reels/2026-12-02-buzon",
+   "tema": "Buzón tributario: actívalo antes del 31 de diciembre",
+   "publicacion": "2026-12-02T18:00",
+   "estatus": "en_revision",
+   "monday_item": "13657324191",
+   "gmail_thread": null,
+   "metricool_url": null,
+   "validar": "FPM: multa $3,850-$11,540 desde 1 ene 2027 (CFF 86-C/86-D, transitorio Cuarto RMF 2026); 'casi todos los que tienen RFC' (asalariados <$400k opcional)"
+  }
+ ],
+ "temas_validados": {
+  "posada de la empresa": "deducible (FPM)",
+  "regalos a clientes": "deducibles si se otorgan de manera general (FPM)"
+ },
+ "notas": [
+  "No poner montos de topes de colegiaturas: que nos pregunten (FPM).",
+  "Factura puede estar a nombre del cónyuge, ascendientes o descendientes (FPM).",
+  "Decir 'regresar o disminuir tu impuesto' (FPM)."
+ ]
+}

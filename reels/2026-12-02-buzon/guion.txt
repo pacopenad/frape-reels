@@ -1,0 +1,11 @@
+[curious] ¿El SAT te va a multar en enero y no lo sabes?
+[confident] Tienes RFC, facturas, pagas tus impuestos... y sientes que estás al día.
+[serious] Lo que nadie te dice: el SAT te manda avisos a un buzón. El buzón tributario.
+[serious] Pero ojo. Si no lo tienes activo, desde enero de 2027 te pueden multar. De tres mil ochocientos cincuenta a once mil quinientos cuarenta pesos.
+[curious] ¿Quién lo tiene que activar?
+[confident] Casi todos los que tienen RFC. Personas físicas y empresas.
+[curious] ¿Y qué necesitas?
+[confident] Tu e.firma o tu contraseña, un correo y tu celular.
+[serious] El secreto: no basta con registrarlos. Hay que confirmarlos, con el link del correo y el código que te llega al celular.
+[confident] Tienes hasta el treinta y uno de diciembre.
+[warm] ¿Quieres saber si el tuyo ya está activo? Escríbenos. Porque a lo mejor el SAT ya te está escribiendo... y tú no lo sabes.
