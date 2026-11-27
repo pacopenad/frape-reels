@@ -22,7 +22,7 @@
    "publicacion": "2026-12-02T18:00",
    "estatus": "en_revision",
    "monday_item": "13657324191",
-   "gmail_thread": null,
+   "gmail_thread": "1a21d3fc577430b1",
    "metricool_url": null,
    "validar": "FPM: multa $3,850-$11,540 desde 1 ene 2027 (CFF 86-C/86-D, transitorio Cuarto RMF 2026); 'casi todos los que tienen RFC' (asalariados <$400k opcional)"
   }
@@ -35,5 +35,6 @@
   "No poner montos de topes de colegiaturas: que nos pregunten (FPM).",
   "Factura puede estar a nombre del cónyuge, ascendientes o descendientes (FPM).",
   "Decir 'regresar o disminuir tu impuesto' (FPM)."
- ]
+ ],
+ "pagina_revision": "https://claude.ai/artifact/NGs2x37B5bktUeZrf3ZGTz"
 }
